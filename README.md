@@ -1,4 +1,5 @@
 ## Sample
+See also [https://github.com/StackExchange/dapper-dot-net](https://github.com/StackExchange/dapper-dot-net)
 ```
 using System;
 using System.Collections.Generic;
